@@ -14,7 +14,7 @@ public class PrimerApplication {
 	}
 @GetMapping("/hello")
 	public String hello (){
-		return  ("Soy un Programador orgulloso");
+		return  ("Soy un Programador orgulloso y muy trabajador");
 }
 }
 
